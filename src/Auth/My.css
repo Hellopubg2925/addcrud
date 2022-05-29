@@ -1,0 +1,85 @@
+
+.main{
+    width: 100%;
+    background-color: rgb(223, 182, 152);
+}
+.min{
+    width: 90%;
+    margin: auto;
+    padding: 2px;
+  
+   
+}
+.check{
+margin-top: 10px !important;
+justify-content: center;
+
+}
+
+
+.ababab
+{
+    margin-left: 5% !important;
+    width: 90% !important;
+    margin-top: 17px !important;
+  
+  
+    color: red !important;
+}
+
+.span{
+padding: 2px;
+margin: 5px 15px 5px 15px;
+font-size: 22px;
+display: inline-block;
+
+
+}
+.form{
+    width: 30%;
+    margin: 10px;
+    margin: auto;
+    border: black;
+    border-width: 3px;
+    border-style: solid;
+    margin-top: 50px;
+    background-color: white;
+}
+
+
+
+  
+  
+
+  .btn {
+ text-align: center;
+ margin-top: 10px;
+ display: inline-block;
+ width: 50%;
+ 
+ 
+ 
+  }
+
+  .deco{
+      text-decoration: none;
+      color: black;
+  }
+
+  .half{
+      width: 30%;
+      
+display: inline-block;
+
+  }
+  .header{
+      width: 70%;
+      font-size: 0px;
+      display: inline-block;
+      text-align: right;
+     
+  }
+.input{
+    border-radius: 5px;
+    padding: 10px;
+}

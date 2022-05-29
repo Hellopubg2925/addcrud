@@ -1,0 +1,208 @@
+
+.main_f{
+    width: 100%;
+    background-color: rgb(151, 151, 153);
+    
+}
+.min{
+    width: 90%;
+    margin: auto;
+    padding: 2px;
+    
+  
+}
+.login{
+    background-color: #000;
+    width: 100%;
+}
+.check{
+margin-top: 10px !important;
+justify-content: center;
+
+}
+
+
+.ababab
+{
+    margin-left: 5% !important;
+    width: 90% !important;
+    margin-top: 17px !important;
+  
+  
+    color: red !important;
+}
+
+.span{
+padding: 2px;
+margin: 5px 15px 5px 15px;
+font-size: 22px;
+display: inline-block;
+
+
+}
+.form{
+    width: 90%;
+    margin: 10px;
+    margin: auto;
+    border: black;
+    border-width: 3px;
+    border-style: solid;
+    margin-top: 50px;
+   
+}
+
+.data_btn{
+    padding: 5px 15px 5px 15px;
+    background-color:red;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+  
+  
+
+  .btn {
+ text-align: center;
+ margin-top: 10px;
+ display: inline-block;
+ width: 50%;
+ 
+ 
+ 
+  }
+
+  .deco{
+      text-decoration: none;
+      color: black;
+  }
+
+  .half{
+      width: 30%;
+   
+      
+display: inline-block;
+
+  }
+  .header{
+      width: 70%;
+      font-size: 0px;
+      display: inline-block;
+      text-align: right;
+     
+  }
+
+
+.box-table{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+  
+
+}
+.box-table > .mid-table{
+    width:90%;
+    padding: 5px;
+    background-color: #000;
+
+}
+.table{
+  width: 100%;
+  border-collapse:separate;
+}
+.table tr:nth-child(even){
+    background-color: #fff;
+    color: rgb(33, 12, 149);
+}
+.table tr:nth-child(odd){
+    background-color: lightgray;
+    color:#000
+}
+.table td , th{
+      padding: 5px;
+      text-align: center;
+}
+
+
+
+.save_data{
+    width: 100%;
+    
+   
+}
+.mid-save{
+    width: 90%;
+
+    text-align: right;
+    margin: auto;
+}
+.save-btn{
+    
+    font-size: 18px;
+    padding: 3px 10px 3px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px grey;}
+
+
+
+.data_view{
+    padding: 5px 15px 5px 15px;
+    background-color:rgb(174, 179, 218);
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px 2px rgb(212, 69, 69);
+}
+
+.data_edit{
+    padding: 5px 15px 5px 15px;
+    background-color:rgb(133, 133, 133);
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px 2px rgb(60, 64, 59);
+}
+
+
+.search{
+    width:100% ;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: aqua;
+}
+
+.view{
+    margin: 10px;
+    font-weight: bold;
+    font-size: 20px;
+   border-radius: 20px;
+   box-shadow: 3px 3px 3px 2px black;
+   padding: 10px;
+
+}
+
+.center{
+   
+    text-align: center;
+    
+}
+
+.next{
+    font-weight: bold;
+    font-size: 21px;
+    color: red;
+}
+.pre{
+    font-weight: bold;
+    font-size: 19px;
+    padding: 5px;
+    color: yellow;
+}
+
+.display{
+    display: inline-block;
+}
